@@ -21,7 +21,7 @@ ACTION:
 
 * 1.this workflow check service status 
 * 2.Restart the stopped service
-* 3.put required details in tickes
+* 3.put required details in tickets
 * 4.on succesfull ticket will close
 * 5.on failure reassign mechanism will trigger.
 
